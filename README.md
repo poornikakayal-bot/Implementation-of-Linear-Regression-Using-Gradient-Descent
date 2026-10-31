@@ -136,7 +136,8 @@ print(f"\nPredicted Profit for the new startup: ₹{pred_original[0][0]:,.2f}")
 
 ## output:
 
-<img width="716" height="1600" alt="WhatsApp Image 2026-10-31 at 8 13 02 AM" src="https://github.com/user-attachments/assets/841a94a7-48fc-45d1-a4dc-d43d73a9a5a0" />
+<img width="716" height="331" alt="WhatsApp Image 2026-10-31 at 8 23 59 AM" src="https://github.com/user-attachments/assets/3524ad06-bb82-4e62-a5aa-13679e847e1e" />
+
 
 
 
