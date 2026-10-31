@@ -132,10 +132,11 @@ scaled_pred = new_design.dot(theta)
 pred_original = y_scaler.inverse_transform(scaled_pred)
 
 print(f"\nPredicted Profit for the new startup: ₹{pred_original[0][0]:,.2f}")
+```
 
+## output:
 
-## Output:
-<img width="716" height="1600" alt="WhatsApp Image 2026-10-31 at 8 13 02 AM" src="https://github.com/user-attachments/assets/f20faaba-9f9c-4d20-a0d4-1c4bdeefadb6" />
+<img width="716" height="1600" alt="WhatsApp Image 2026-10-31 at 8 13 02 AM" src="https://github.com/user-attachments/assets/841a94a7-48fc-45d1-a4dc-d43d73a9a5a0" />
 
 
 
