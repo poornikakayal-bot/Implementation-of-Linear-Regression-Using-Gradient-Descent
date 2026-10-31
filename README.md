@@ -23,7 +23,6 @@ Program to implement the linear regression using gradient descent.
 Developed by: Poornika Umapathy
 RegisterNumber: 212225060200 
 */
-```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
